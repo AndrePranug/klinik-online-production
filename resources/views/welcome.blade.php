@@ -5,8 +5,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Klinik Online - Sistem Antrian & Reservasi Dokter</title>
     <link rel="stylesheet" href="/build/assets/app-BakBNYi5.css">
-    <script src="/build/assets/app-ByW0VTRm.js" defer></script>
-    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+    <link rel="stylesheet" href="/public/build/assets/app-BaKBNYi5.css">
+    <script src="/public/build/assets/app-ByW0VRm.js" defer></script>
 </head>
 <body class="antialiased">
     <div class="min-h-screen bg-gradient-to-br from-blue-50 via-white to-indigo-50">
